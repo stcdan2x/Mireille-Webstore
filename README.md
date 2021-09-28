@@ -1,2 +1,2 @@
 # Mireille-Webstore
-Using routers and components in vanilla JS to create an online store
+Using routers and components in vanilla Javascript to create an online store
